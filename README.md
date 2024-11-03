@@ -1,4 +1,4 @@
-GYM E-Commerce Website (Front-End)  
+<b>GYM E-Commerce Website (Front-End)  </b>
 Welcome to the GYM E-Commerce Website, a responsive and visually appealing front-end project developed exclusively by Sobhan Izadi. This project was initially created for a university assignment, but it is fully equipped to be adapted for commercial use, allowing anyone to utilize or build upon it.
 
 Project Overview <br>
