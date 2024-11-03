@@ -28,10 +28,13 @@ Lightweight and Fast: This static website is designed for speed, ensuring users 
 
 <b>HTML:  </b>  <br>
 Structured and semantic HTML5 was used for clean, well-organized code, ensuring compatibility with modern browsers and devices.
+
 <b>CSS:  </b>  <br>
 The layout and styling are managed with CSS3, including flexbox and grid for responsive, adaptable designs.
+
 <b>JavaScript:  </b>  <br>
 JavaScript is used to handle interactivity, smooth scrolling, animations, and basic user interface enhancements.
+
 <b>Custom Fonts:  </b>  <br>
 A selection of fonts is integrated to align with the professional, energetic aesthetic of a gym and fitness website.
 
